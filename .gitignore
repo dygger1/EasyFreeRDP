@@ -1,3 +1,6 @@
+# Ignore dev directory
+**/dev/*
+
 # Ignore Logs
 logs
 *.log
